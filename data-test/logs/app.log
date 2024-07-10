@@ -1,0 +1,12 @@
+2024-07-10 14:38:15.689 INFO [main] [io.github.adamw7.tools.data.MemoryLeakTest.setUp(MemoryLeakTest.java:40)] - Max heap is set to 16777216
+2024-07-10 14:38:15.802 INFO [main] [io.github.adamw7.tools.data.MemoryLeakTest.prepareData(MemoryLeakTest.java:49)] - CSV file C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv with random data created.
+2024-07-10 14:38:15.815 INFO [main] [io.github.adamw7.tools.data.source.file.CSVDataSource.open(CSVDataSource.java:65)] - Opening: C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv
+2024-07-10 14:38:16.322 INFO [main] [io.github.adamw7.tools.data.source.file.CSVDataSource.open(CSVDataSource.java:65)] - Opening: C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv
+2024-07-10 15:53:09.577 INFO [main] [io.github.adamw7.tools.data.MemoryLeakTest.setUp(MemoryLeakTest.java:40)] - Max heap is set to 16777216
+2024-07-10 15:53:09.645 INFO [main] [io.github.adamw7.tools.data.MemoryLeakTest.prepareData(MemoryLeakTest.java:49)] - CSV file C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv with random data created.
+2024-07-10 15:53:09.659 INFO [main] [io.github.adamw7.tools.data.source.file.CSVDataSource.open(CSVDataSource.java:65)] - Opening: C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv
+2024-07-10 15:53:10.106 INFO [main] [io.github.adamw7.tools.data.source.file.CSVDataSource.open(CSVDataSource.java:65)] - Opening: C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv
+2024-07-10 15:53:36.488 INFO [main] [io.github.adamw7.tools.data.MemoryLeakTest.setUp(MemoryLeakTest.java:40)] - Max heap is set to 16777216
+2024-07-10 15:53:36.620 INFO [main] [io.github.adamw7.tools.data.MemoryLeakTest.prepareData(MemoryLeakTest.java:49)] - CSV file C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv with random data created.
+2024-07-10 15:53:36.633 INFO [main] [io.github.adamw7.tools.data.source.file.CSVDataSource.open(CSVDataSource.java:65)] - Opening: C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv
+2024-07-10 15:53:37.136 INFO [main] [io.github.adamw7.tools.data.source.file.CSVDataSource.open(CSVDataSource.java:65)] - Opening: C:\Users\j_4k\AppData\Local\Temp\codeai-test-3339684642621176914\data-test\target\random_data.csv
